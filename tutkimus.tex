@@ -13,6 +13,9 @@
 %\usepackage{authordate1-4}
 \usepackage[sorting=none]{biblatex}
 
+\usepackage{pgfplots}
+%\pgfplotsset{width=7cm}%,compact=1.10}
+
 \widowpenalty=1000
 \clubpenalty=1000
 
@@ -148,8 +151,18 @@ Kaikki haastatellut oppilaat pitivät harjoituskurssia hyödyllisenä.
 Syyt kuitenkin vaihtelivat; suuri osa ($n=9$) piti kurssia hyödyllisenä sen kertaavan luonteen vuoksi.
 Neljän opiskelijan mielestä kurssilla on opittu myös uusia asioita, muun muassa laskimen käyttötaitoa.
 Kuusi opiskelijaa ei vastannut kysymykseen.
-
 Hyvänä ominaisuutena pidettiin myös sitä, että apua ja neuvontaa on saatavilla.
+
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}
+\begin{axis}[x tick label 
+style={/pgf/number format/1000 sep=}, ylabel=lkm, enlargelimits=0.05, legend style={at={(0.5,-0.15)}, anchor=north,legend columns=-1},ybar interval=0.7]
+\addplot coordinates {(1,0) (2,0) (3,5) (4,11) (5,2) (6,0)}; % miksei piirrä vikaa asiaa? :3
+\end{axis}
+\end{tikzpicture}
+\caption{``Harjoituskurssista on ollut minulle hyötyä.''}
+\end{figure}
 
 \subsection{Kisälliopetus}
 Kurssi toteuttaa kisälliopetuksen piirteet opiskelijoiden vastauksien mukaan hyvin.
