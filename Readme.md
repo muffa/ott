@@ -8,8 +8,11 @@ Kisälliopetus lukiossa
 Tämä Github-repo sisältää tutkimuksemme raportin.
 Varmistu että .tex kääntyy ennen committia. ;)
 
-Aleksi - matikkapelko teoriaosaan, pohdintaluku
+Työnjako
+-------------
 
-Sandra - Avovastaukset tuloksiin, tutkimustuloksiin: miten kurssia voisi kehittää (opiskelijoiden mielestä)
+Aleksi - Teoreettinen viitekehys (matikkapelko), Pohdinta
+
+Sandra - Tutkimustulokset (avovastausten tulkinta, miten kurssia voisi kehittää (opiskelijoiden mielestä))
 
 
