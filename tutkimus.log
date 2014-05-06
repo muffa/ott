@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 14:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 14:37
 entering extended mode
  %&-line parsing enabled.
 **tutkimus.tex
@@ -924,7 +924,13 @@ Overfull \hbox (0.49153pt too wide) in paragraph at lines 72--76
 -tee-mi-seen va-pau-teen; opis-
  []
 
-) [8] [9] (./section6.tex) [10]
+[8]) [9] (./section6.tex
+Overfull \hbox (1.99393pt too wide) in paragraph at lines 7--12
+\OT1/cmr/m/n/12 rus-teht[]avi[]a. Var-si-nai-sia on-gel-ma-teht[]avi[]a ei juu-
+ri ol-lut, ja sa-nal-lis-ten teht[]avien
+ []
+
+) [10]
 Underfull \hbox (badness 1895) in paragraph at lines 88--88
 \OT1/cmr/m/n/12 9780674576292.   \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : [][]$\OT
 1/cmtt/m/n/12 http : / / books . google . fi / books ? id =
@@ -932,10 +938,10 @@ Underfull \hbox (badness 1895) in paragraph at lines 88--88
 
 [11] AED: lastpage setting LastPage (./tutkimus.aux) ) 
 Here is how much of TeX's memory you used:
- 21667 strings out of 493848
- 407190 string characters out of 1152822
+ 21669 strings out of 493848
+ 407220 string characters out of 1152822
  596088 words of memory out of 3000000
- 24453 multiletter control sequences out of 15000+50000
+ 24454 multiletter control sequences out of 15000+50000
  13572 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  54i,12n,65p,874b,1357s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -948,9 +954,9 @@ usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tutkimus.pdf (12 pages, 153637 bytes).
+Output written on tutkimus.pdf (12 pages, 156876 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
