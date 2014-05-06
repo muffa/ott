@@ -159,6 +159,28 @@
   \field{year}{1992}
 \endentry
 
+\entry{mathanx}{article}{}
+  \name{author}{1}{%
+    {{Ashcraft}{A.}%
+     {Mark~H}{M.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SAGE Publications}%
+  }
+  \field{journaltitle}{Current Directions in Psychological Science}
+  \strng{namehash}{AMH1}
+  \strng{fullhash}{AMH1}
+  \field{sortinit}{A}
+  \field{number}{5}
+  \field{pages}{181\bibrangedash 185}
+  \field{title}{Math anxiety: Personal, educational, and cognitive
+  consequences}
+  \field{volume}{11}
+  \field{year}{2002}
+\endentry
+
 \lossort
 \endlossort
 
