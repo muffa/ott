@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  5 MAY 2014 14:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 12:49
 entering extended mode
  %&-line parsing enabled.
 **tutkimus.tex
@@ -903,29 +903,38 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
  [5] [6]
-Overfull \hbox (35.34273pt too wide) in paragraph at lines 198--200
+Overfull \hbox (29.27612pt too wide) in paragraph at lines 196--199
+\OT1/cmr/m/n/12 Se, ett[]a opis-ke-li-ja ko-kee kor-ke-aa min[]apystyvyyden tun
+-net-ta on my[]os v[]altt[]am[]at[]ont[]a
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+Overfull \hbox (35.34273pt too wide) in paragraph at lines 215--217
 \OT1/cmr/m/n/12 Kyselyvastauksista k[]avi il-mi, ett[]a mo-ni opis-ke-li-ja pit
 []a[]a ma-te-ma-tiik-kaa enimm[]akseen
  []
 
-[7]
-Overfull \hbox (0.49153pt too wide) in paragraph at lines 203--207
+
+Overfull \hbox (0.49153pt too wide) in paragraph at lines 220--224
 \OT1/cmr/m/n/12 l[]asn[]aolo, val-mis-taa kurs-si my[]os kor-kea-kou-lu-jen aka
 -tee-mi-seen va-pau-teen; opis-
  []
 
-[8] [9]
-Underfull \hbox (badness 1895) in paragraph at lines 220--220
+[8] [9] [10]
+Underfull \hbox (badness 1895) in paragraph at lines 240--240
 \OT1/cmr/m/n/12 9780674576292.   \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : [][]$\OT
 1/cmtt/m/n/12 http : / / books . google . fi / books ? id =
  []
 
-[10] AED: lastpage setting LastPage (./tutkimus.aux) ) 
+[11] AED: lastpage setting LastPage (./tutkimus.aux) ) 
 Here is how much of TeX's memory you used:
- 21637 strings out of 493848
- 406801 string characters out of 1152822
- 594088 words of memory out of 3000000
- 24445 multiletter control sequences out of 15000+50000
+ 21647 strings out of 493848
+ 406954 string characters out of 1152822
+ 596088 words of memory out of 3000000
+ 24452 multiletter control sequences out of 15000+50000
  13572 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  54i,12n,65p,853b,1355s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -938,9 +947,9 @@ usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tutkimus.pdf (11 pages, 148150 bytes).
+Output written on tutkimus.pdf (12 pages, 153147 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
