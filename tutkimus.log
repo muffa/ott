@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 12:49
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 13:16
 entering extended mode
  %&-line parsing enabled.
 **tutkimus.tex
@@ -754,7 +754,7 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
 (/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2007/03/09 v2.00 (rcs-revision 1.5)
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 47.
+Package hyperref Info: Option `colorlinks' set `true' on input line 46.
 
 (/usr/share/texmf-texlive/tex/latex/lastpage/lastpage.sty
 Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
@@ -785,21 +785,21 @@ Package biblatex Warning: 'babel' detected but 'csquotes' missing.
 (./tutkimus.aux)
 \openout1 = `tutkimus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-Package hyperref Info: Link coloring ON on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+Package hyperref Info: Link coloring ON on input line 57.
  (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -808,8 +808,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count212
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
  (./tutkimus.out)
 (./tutkimus.out)
 \@outlinefile=\write7
@@ -838,18 +838,18 @@ File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'tutkimus.bbl' found.
  (./tutkimus.bbl)
-Package biblatex Info: Reference section=0 on input line 58.
-Package biblatex Info: Reference segment=0 on input line 58.
+Package biblatex Info: Reference section=0 on input line 57.
+Package biblatex Info: Reference segment=0 on input line 57.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 67.
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 67.
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -870,40 +870,41 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 
-      [1]
-Overfull \hbox (41.73572pt too wide) in paragraph at lines 80--84
+l.69 
+      [1] (./section1.tex
+Overfull \hbox (41.73572pt too wide) in paragraph at lines 9--13
 []\OT1/cmr/m/n/12 Helsingin Nor-maa-li-ly-seos-sa on yk-si ma-te-ma-tii-kan kur
 s-si, jo-ka t[]aytt[]a[]a kis[]alliopetuksen
  []
 
-[2]
-Overfull \hbox (2.57779pt too wide) in paragraph at lines 99--100
+) [2] (./section2.tex
+Overfull \hbox (2.57779pt too wide) in paragraph at lines 6--7
 \OT1/cmr/m/n/12 tai-nen op-pi-mi-nen on pe-da-go-gi-nen suun-taus, jo-ka tar-jo
 -aa kiin-nos-ta-van l[]ahesty-
  []
 
-[3] [4]
-Overfull \hbox (37.63159pt too wide) in paragraph at lines 107--112
+[3]) [4] (./section3.tex
+Overfull \hbox (37.63159pt too wide) in paragraph at lines 1--6
 \OT1/cmr/m/n/12 ar-vioin-tiin, vaan ky-syim-me op-pi-lai-den mie-li-pi-teit[]a 
 har-joi-tus-kurs-sin hy[]odyllisyydest[]a.
  []
 
 
-Overfull \hbox (1.24277pt too wide) in paragraph at lines 107--112
+Overfull \hbox (1.24277pt too wide) in paragraph at lines 1--6
 \OT1/cmr/m/n/12 Tut-ki-mus-ky-sy-myk-sek-sem-me muo-dos-tui siis seu-raa-va: \O
 T1/cmr/bx/n/12 Kuin-ka hy[]odylliseksi
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 121.
-
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+) (./section4.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
- [5] [6]
-Overfull \hbox (29.27612pt too wide) in paragraph at lines 196--199
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+ [5])
+(./section5.tex [6]
+Overfull \hbox (29.27612pt too wide) in paragraph at lines 48--51
 \OT1/cmr/m/n/12 Se, ett[]a opis-ke-li-ja ko-kee kor-ke-aa min[]apystyvyyden tun
 -net-ta on my[]os v[]altt[]am[]at[]ont[]a
  []
@@ -912,32 +913,32 @@ Overfull \hbox (29.27612pt too wide) in paragraph at lines 196--199
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7]
-Overfull \hbox (35.34273pt too wide) in paragraph at lines 215--217
+Overfull \hbox (35.34273pt too wide) in paragraph at lines 67--69
 \OT1/cmr/m/n/12 Kyselyvastauksista k[]avi il-mi, ett[]a mo-ni opis-ke-li-ja pit
 []a[]a ma-te-ma-tiik-kaa enimm[]akseen
  []
 
 
-Overfull \hbox (0.49153pt too wide) in paragraph at lines 220--224
+Overfull \hbox (0.49153pt too wide) in paragraph at lines 72--76
 \OT1/cmr/m/n/12 l[]asn[]aolo, val-mis-taa kurs-si my[]os kor-kea-kou-lu-jen aka
 -tee-mi-seen va-pau-teen; opis-
  []
 
-[8] [9] [10]
-Underfull \hbox (badness 1895) in paragraph at lines 240--240
+) [8] [9] (./section6.tex) [10]
+Underfull \hbox (badness 1895) in paragraph at lines 88--88
 \OT1/cmr/m/n/12 9780674576292.   \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : [][]$\OT
 1/cmtt/m/n/12 http : / / books . google . fi / books ? id =
  []
 
 [11] AED: lastpage setting LastPage (./tutkimus.aux) ) 
 Here is how much of TeX's memory you used:
- 21647 strings out of 493848
- 406954 string characters out of 1152822
+ 21665 strings out of 493848
+ 407158 string characters out of 1152822
  596088 words of memory out of 3000000
  24452 multiletter control sequences out of 15000+50000
  13572 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 54i,12n,65p,853b,1355s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,12n,65p,874b,1357s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive
 /fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
@@ -947,7 +948,7 @@ usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tutkimus.pdf (12 pages, 153147 bytes).
+Output written on tutkimus.pdf (12 pages, 153156 bytes).
 PDF statistics:
  215 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
