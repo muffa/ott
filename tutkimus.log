@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  6 MAY 2014 14:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.12)  7 MAY 2014 15:16
 entering extended mode
  %&-line parsing enabled.
 **tutkimus.tex
@@ -889,7 +889,13 @@ Overfull \hbox (2.57779pt too wide) in paragraph at lines 6--7
 -aa kiin-nos-ta-van l[]ahesty-
  []
 
-[3]) [4] (./section3.tex
+[3]
+Overfull \hbox (27.70816pt too wide) in paragraph at lines 10--14
+\OT1/cmr/m/n/12 te-ma-tiik-ka-pel-koa ai-heut-taa muis-ta-mi-sen ko-ros-ta-mi-n
+en ymm[]art[]amisen ja p[]a[]attelyn
+ []
+
+) [4] (./section3.tex
 Overfull \hbox (37.63159pt too wide) in paragraph at lines 1--6
 \OT1/cmr/m/n/12 ar-vioin-tiin, vaan ky-syim-me op-pi-lai-den mie-li-pi-teit[]a 
 har-joi-tus-kurs-sin hy[]odyllisyydest[]a.
@@ -909,8 +915,21 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
  [5])
-(./section5.tex [6]
-Overfull \hbox (29.27612pt too wide) in paragraph at lines 48--51
+(./section5.tex
+Overfull \hbox (0.55757pt too wide) in paragraph at lines 1--8
+\OT1/cmr/m/n/12 vuok-si: ``Ai-na-kin on jo-tain tul-lut ker-rat-tua.'', ``Olen 
+saa-nut ker-taus-ta''. Nelj[]an
+ []
+
+[6]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (29.27612pt too wide) in paragraph at lines 56--59
 \OT1/cmr/m/n/12 Se, ett[]a opis-ke-li-ja ko-kee kor-ke-aa min[]apystyvyyden tun
 -net-ta on my[]os v[]altt[]am[]at[]ont[]a
  []
@@ -918,48 +937,48 @@ Overfull \hbox (29.27612pt too wide) in paragraph at lines 48--51
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7]
-Overfull \hbox (35.34273pt too wide) in paragraph at lines 67--69
+[7] [8]
+Overfull \hbox (35.34273pt too wide) in paragraph at lines 80--82
 \OT1/cmr/m/n/12 Kyselyvastauksista k[]avi il-mi, ett[]a mo-ni opis-ke-li-ja pit
 []a[]a ma-te-ma-tiik-kaa enimm[]akseen
  []
 
 
-Overfull \hbox (6.032pt too wide) in paragraph at lines 71--72
+Overfull \hbox (6.032pt too wide) in paragraph at lines 84--85
 \OT1/cmr/m/n/12 kak-si opis-ke-li-jaa oli v[]aitteen ``Har-joi-tus-kurs-sil-la 
 on mu-ka-vaa'' kans-sa eri mielt[]a,
  []
 
-[8]
-Overfull \hbox (0.49153pt too wide) in paragraph at lines 76--80
+[9]
+Overfull \hbox (0.49153pt too wide) in paragraph at lines 91--95
 \OT1/cmr/m/n/12 l[]asn[]aolo, val-mis-taa kurs-si my[]os kor-kea-kou-lu-jen aka
 -tee-mi-seen va-pau-teen; opis-
  []
 
-) [9] (./section6.tex
-Overfull \hbox (10.54391pt too wide) in paragraph at lines 6--10
-\OT1/cmr/m/n/12 taan di-gi-taa-li-ses-sa muo-dos-sa. Har-joi-tus-kurs-sil-la on
- my[]os ty[]ov[]alinekurssimainen
- []
-
-
+) [10] (./section6.tex
 Overfull \hbox (1.99393pt too wide) in paragraph at lines 12--17
 \OT1/cmr/m/n/12 rus-teht[]avi[]a. Var-si-nai-sia on-gel-ma-teht[]avi[]a ei juu-
 ri ol-lut, ja sa-nal-lis-ten teht[]avien
  []
 
-) [10]
+) [11]
 Underfull \hbox (badness 1895) in paragraph at lines 88--88
 \OT1/cmr/m/n/12 9780674576292.   \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : [][]$\OT
 1/cmtt/m/n/12 http : / / books . google . fi / books ? id =
  []
 
-[11] AED: lastpage setting LastPage (./tutkimus.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]  \OT1/cmr/m/n/12 P[]aivi Mak-ko-nen.   ``  L[]a[]akelaskennan ope-tuk-sen ke
+-hitt[]aminen
+ []
+
+[12] AED: lastpage setting LastPage (./tutkimus.aux) ) 
 Here is how much of TeX's memory you used:
- 21671 strings out of 493848
- 407250 string characters out of 1152822
- 596088 words of memory out of 3000000
- 24455 multiletter control sequences out of 15000+50000
+ 21676 strings out of 493848
+ 407327 string characters out of 1152822
+ 600088 words of memory out of 3000000
+ 24457 multiletter control sequences out of 15000+50000
  13572 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  54i,12n,65p,874b,1357s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -972,9 +991,9 @@ usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tutkimus.pdf (12 pages, 158814 bytes).
+Output written on tutkimus.pdf (13 pages, 164671 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 

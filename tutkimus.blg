@@ -6,44 +6,44 @@ Database file #1: tutkimus-blx.bib
 Database file #2: tutkimussuunnitelma.bib
 Biblatex version: 0.9
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 7 entries,
+You've used 9 entries,
             6083 wiz_defined-function locations,
-            1170 strings with 9496 characters,
-and the built_in function-call counts, 19667 in all, are:
-= -- 790
-> -- 675
-< -- 115
-+ -- 248
-- -- 234
-* -- 1392
-:= -- 1403
+            1182 strings with 9723 characters,
+and the built_in function-call counts, 25399 in all, are:
+= -- 1046
+> -- 854
+< -- 149
++ -- 311
+- -- 276
+* -- 1700
+:= -- 1716
 add.period$ -- 0
-call.type$ -- 7
-change.case$ -- 105
+call.type$ -- 9
+change.case$ -- 158
 chr.to.int$ -- 34
-cite$ -- 12
-duplicate$ -- 2159
-empty$ -- 2062
-format.name$ -- 415
-if$ -- 4405
+cite$ -- 16
+duplicate$ -- 2847
+empty$ -- 2710
+format.name$ -- 507
+if$ -- 5714
 int.to.chr$ -- 0
-int.to.str$ -- 17
+int.to.str$ -- 23
 missing$ -- 0
-newline$ -- 177
-num.names$ -- 295
-pop$ -- 1925
+newline$ -- 215
+num.names$ -- 412
+pop$ -- 2535
 preamble$ -- 1
-purify$ -- 123
+purify$ -- 178
 quote$ -- 0
-skip$ -- 1122
+skip$ -- 1461
 stack$ -- 0
-substring$ -- 460
-swap$ -- 731
-text.length$ -- 146
+substring$ -- 617
+swap$ -- 958
+text.length$ -- 182
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 296
+type$ -- 384
 warning$ -- 0
-while$ -- 148
+while$ -- 180
 width$ -- 0
-write$ -- 169
+write$ -- 205
