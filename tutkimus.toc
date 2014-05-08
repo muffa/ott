@@ -39,3 +39,5 @@
 \contentsline {subsection}{\numberline {6.1}Kehitt\IeC {\"a}misehdotuksia}{12}{subsection.6.1}
 \defcounter {refsection}{0}
 \contentsline {subsection}{\numberline {6.2}Ongelmat tutkimuksessa}{12}{subsection.6.2}
+\defcounter {refsection}{0}
+\contentsline {section}{Liite \numberline {A}Kyselylomake}{14}{Liite.1.A}
